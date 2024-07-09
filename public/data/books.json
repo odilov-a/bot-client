@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Fiction",
+            "published_year": 1960,
+            "ISBN": "978-0-06-112008-4",
+            "summary": "A novel about the serious issues of rape and racial inequality narrated by the young Scout Finch.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/330px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
+        },
+        {
+            "id": 2,
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "Dystopian",
+            "published_year": 1949,
+            "ISBN": "978-0-452-28423-4",
+            "summary": "A story of a dystopian future where totalitarian regime suppresses all dissent.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/5/51/1984_first_edition_cover.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "Romance",
+            "published_year": 1813,
+            "ISBN": "978-0-19-953556-9",
+            "summary": "A classic novel of manners that explores the issues of marriage, money, and love.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/PrideAndPrejudiceTitlePage.jpg/330px-PrideAndPrejudiceTitlePage.jpg"
+        },
+        {
+            "id": 4,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Tragedy",
+            "published_year": 1925,
+            "ISBN": "978-0-7432-7356-5",
+            "summary": "A novel about the American dream and the downfall of those who attempt to reach its illusory goals.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Moby-Dick",
+            "author": "Herman Melville",
+            "genre": "Adventure",
+            "published_year": 1851,
+            "ISBN": "978-0-14-243724-7",
+            "summary": "A narrative of the adventures of the whaling ship Pequod, commanded by Captain Ahab who is obsessed with hunting the white whale Moby Dick.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Moby-Dick_FE_title_page.jpg/330px-Moby-Dick_FE_title_page.jpg"
+        },
+        {
+            "id": 6,
+            "title": "War and Peace",
+            "author": "Leo Tolstoy",
+            "genre": "Historical Fiction",
+            "published_year": 1869,
+            "ISBN": "978-0-14-303999-0",
+            "summary": "A historical novel that intertwines the lives of several families against the backdrop of the Napoleonic wars.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg/330px-Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg"
+        },
+        {
+            "id": 7,
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "genre": "Fiction",
+            "published_year": 1951,
+            "ISBN": "978-0-316-76948-0",
+            "summary": "A novel about teenage angst and alienation narrated by the disillusioned Holden Caulfield.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/330px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg"
+        },
+        {
+            "id": 8,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "published_year": 1937,
+            "ISBN": "978-0-618-00221-3",
+            "summary": "A fantasy novel about the journey of Bilbo Baggins, who sets off on an unexpected adventure with a group of dwarves to reclaim their homeland.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4a/TheHobbit_FirstEdition.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoevsky",
+            "genre": "Psychological Fiction",
+            "published_year": 1866,
+            "ISBN": "978-0-14-305814-4",
+            "summary": "A novel exploring the moral dilemmas faced by a poor ex-student who plans to kill a pawnbroker for her money.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Crimeandpunishmentcover.png"
+        },
+        {
+            "id": 10,
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "genre": "Romance",
+            "published_year": 1847,
+            "ISBN": "978-0-14-243720-9",
+            "summary": "A novel about the experiences of the orphaned Jane Eyre, including her growth to adulthood and her love for Mr. Rochester.",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jane_Eyre_title_page.jpg/330px-Jane_Eyre_title_page.jpg"
+        }
+    ]
+}

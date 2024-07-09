@@ -1,0 +1,28 @@
+.App {
+    padding: 20px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.search-bar {
+    max-width: 600px;
+    margin: 0 auto 20px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-subtitle {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.card-text {
+    font-size: 0.875rem;
+}
